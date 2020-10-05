@@ -1,1 +1,2 @@
-## Welcome to GitHub Pages
+## WELCOME TO SIMPLE CAR STATS
+## Finally, car stats made simple!
